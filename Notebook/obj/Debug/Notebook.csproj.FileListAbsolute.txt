@@ -1,0 +1,7 @@
+C:\Users\Madhavan\source\repos\Notebook\Notebook\bin\Debug\Notebook.exe.config
+C:\Users\Madhavan\source\repos\Notebook\Notebook\bin\Debug\Notebook.exe
+C:\Users\Madhavan\source\repos\Notebook\Notebook\bin\Debug\Notebook.pdb
+C:\Users\Madhavan\source\repos\Notebook\Notebook\obj\Debug\Notebook.csprojAssemblyReference.cache
+C:\Users\Madhavan\source\repos\Notebook\Notebook\obj\Debug\Notebook.csproj.CoreCompileInputs.cache
+C:\Users\Madhavan\source\repos\Notebook\Notebook\obj\Debug\Notebook.exe
+C:\Users\Madhavan\source\repos\Notebook\Notebook\obj\Debug\Notebook.pdb
